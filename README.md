@@ -8,3 +8,4 @@ This file describes my run_analysis.R script
   - mergedData.txt
   - mean_data.txt 
 * data <- read.table("mean_data.txt") to read the file.
+ 
